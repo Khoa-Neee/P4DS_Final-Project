@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FinalProject-P4DS
 
 Đồ án cuối kỳ môn học Lập trình cho Khoa học Dữ liệu.
@@ -10,11 +9,11 @@
 
 ## Nội dung ngắn gọn
 
-Phân tích và khám phá bộ dữ liệu Student Depression Dataset (Kaggle), chuẩn hóa dữ liệu, trực quan hóa và chuẩn bị cho mô hình dự báo biến mục tiêu `Depression`.
+Phân tích và khám phá bộ dữ liệu BankChurners (Kaggle), chuẩn hóa dữ liệu, trực quan hóa và chuẩn bị cho mô hình dự báo biến mục tiêu `Attrition_Flag` (khách hàng rời bỏ).
 
 Tệp chính: `main.ipynb`
 
-Thư mục dữ liệu: `data/Student Depression Dataset.csv`
+Thư mục dữ liệu: `data/BankChurners.csv`
 
 ## How to run
 
@@ -51,7 +50,4 @@ jupyter notebook
 
 Ghi chú:
 - Nếu dùng VS Code, có thể mở trực tiếp `main.ipynb` và chọn Run All.
-- Đảm bảo file dữ liệu tồn tại tại `data/Student Depression Dataset.csv` trước khi chạy.
-=======
-# P4DS_Final-Project
->>>>>>> cdd4567b0e6f72014b1bb36153615ca93437a759
+- Đảm bảo file dữ liệu tồn tại tại `data/BankChurners.csv` trước khi chạy.
