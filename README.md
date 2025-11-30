@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FinalProject-P4DS
 
 Đồ án cuối kỳ môn học Lập trình cho Khoa học Dữ liệu.
@@ -51,3 +52,6 @@ jupyter notebook
 Ghi chú:
 - Nếu dùng VS Code, có thể mở trực tiếp `main.ipynb` và chọn Run All.
 - Đảm bảo file dữ liệu tồn tại tại `data/Student Depression Dataset.csv` trước khi chạy.
+=======
+# P4DS_Final-Project
+>>>>>>> cdd4567b0e6f72014b1bb36153615ca93437a759
