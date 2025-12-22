@@ -11,8 +11,8 @@
 
 Phân tích và khám phá bộ dữ liệu BankChurners (Kaggle), chuẩn hóa dữ liệu, trực quan hóa và chuẩn bị cho mô hình dự báo biến mục tiêu `Attrition_Flag` (khách hàng rời bỏ).
 
-Tệp chính: `main.ipynb`
-
+File khám phá dữ liệu: `exploration.ipynb`
+File trả lời câu hỏi: `questions.ipynb`
 Thư mục dữ liệu: `data/BankChurners.csv`
 
 ## How to run
@@ -20,7 +20,7 @@ Thư mục dữ liệu: `data/BankChurners.csv`
 1) Clone repository
 
 ```pwsh
-git clone <repo-url>
+git clone https://github.com/Khoa-Neee/P4DS_Final-Project.git
 ```
 
 2) Tạo môi trường `min_ds-env` (nếu chưa có) từ file `min_ds-env.yml`
@@ -28,8 +28,6 @@ git clone <repo-url>
 ```pwsh
 cd "P4DS_Final Project"
 conda env create -f min_ds-env.yml -n min_ds-env
-# Nếu môi trường đã tồn tại và muốn cập nhật gói:
-# conda env update -f min_ds-env.yml -n min_ds-env
 ```
 
 3) Mở terminal tại thư mục vừa clone về (đã ở trong thư mục dự án)
@@ -46,8 +44,10 @@ conda activate min_ds-env
 jupyter notebook
 ```
 
-6) Trong giao diện Jupyter, mở `main.ipynb` và chọn Run All để thực thi toàn bộ các ô (cells).
+6) Trong giao diện Jupyter, mở `exploration.ipynb` và chọn Run All để thực thi khám phá dữ liệu.
+
+7) Trong giao diện Jupyter, mở `questions.ipynb` và chọn Run All để bắt đầu phân tích các câu hỏi.
 
 Ghi chú:
-- Nếu dùng VS Code, có thể mở trực tiếp `main.ipynb` và chọn Run All.
+- Nếu dùng VS Code, có thể mở trực tiếp `exploration.ipynb` hoặc `questions.ipynb` và chọn Run All.
 - Đảm bảo file dữ liệu tồn tại tại `data/BankChurners.csv` trước khi chạy.
