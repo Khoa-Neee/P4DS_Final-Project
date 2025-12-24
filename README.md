@@ -350,5 +350,3 @@ Dự án giúp em hiểu sâu hơn về quy trình Data Science thực tế. Đi
 Qua dự án, em nhận ra Data Science không chỉ là về code và mô hình, mà là về việc hiểu câu chuyện đằng sau dữ liệu. Việc phát hiện ra học vấn không ảnh hưởng đến rủi ro tín dụng là bài học quý giá về việc không nên giả định mà cần để dữ liệu dẫn dắt. Dự án này đã giúp em phát triển tư duy data-driven thinking.
 
 ---
-
-**Last Updated**: December 2024
